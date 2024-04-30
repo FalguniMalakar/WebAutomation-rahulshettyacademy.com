@@ -13,6 +13,7 @@ public class BrowserSetup {
     @BeforeSuite
     public void startBrowser(){
         browser = new ChromeDriver();
+        //        browser.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
     }
     @AfterSuite
     public void quitBrowser(){
