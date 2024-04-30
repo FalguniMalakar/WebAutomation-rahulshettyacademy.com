@@ -7,10 +7,15 @@ This project contains automation tests written in Java using Selenium WebDriver 
 To run the automation tests in this project, you'll need to have the following software installed on your machine:
 
 -Java Development Kit (JDK) 11 or higher
+
 -Apache Maven
+
 -Selenium WebDriver
+
 -TestNG
+
 -IDE: IntelliJ
+
 
 **Continuous Integration:**
 
